@@ -3,7 +3,7 @@ An automated system to extract top stories from r/AskReddit and generate AI-driv
 video content.
 <br>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8gMTJ9r8T_4pbS8_iVcIUYCcjwhf_buZnw&s" height="200">
+<img src="https://intellifluence.com/wp-content/uploads/2019/07/tr.png" height="200">
 <br>
 
 ## Top 3 Features
