@@ -1,12 +1,13 @@
 # Reddit to Tiktok Video Generator
-blah blah
+An automated system to extract top stories from r/AskReddit and generate AI-driven voiceovers for
+video content.
 <br>
 
-<img src="https://b.fssta.com/uploads/application/nba/headshots/1120.vresize.350.350.medium.77.png" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8gMTJ9r8T_4pbS8_iVcIUYCcjwhf_buZnw&s" height="200">
 <br>
 
 ## Top 3 Features
-* thing 1
-* thing 2
-* thing 3
+* r/AskReddit Web Scraper
+* Automated Video Creator
+* gTTS AI Voiceover
 <br>
