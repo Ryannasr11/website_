@@ -66,30 +66,44 @@
     }
   </style>
   <div id="particles-js"></div>
-<nav class="p-4 flex flex-wrap items-center justify-between w-full px-2 md:px-4">
-    <button id="dark-mode-toggle" class="ml-4 p-2  text-black rounded shadow-md">🌓</button>
-  </nav>
-  <div class="flex flex-col items-center justify-center min-h-screen">
-    <div id="header-container" class="px-4 py-5 mt-8 space-x-4">
-      <h1 class="text-8xl font-bold mb-10">Ryan Nasr</h1>
-      <h2 class="text-xl mb-3">Student at Georgia Institute of Technology
-        <br><b>Aspiring Software Engineer</b></h2>
-      <br>
-      <div class="flex space-x-4">
-        <a href="https://www.linkedin.com/in/ryan-c-nasr" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/ryannasr11" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-github"></i></a>
-        <a href="mailto:rnasr6@gatech.edu" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fas fa-envelope"></i></a>
+  <nav class="fixed top-0 left-0 w-full p-4 flex items-center justify-between bg-transparent z-10">
+    <button id="dark-mode-toggle" class="p-2 text-black rounded shadow-md">🌓</button>
+</nav>
+<div class="flex items-center justify-center min-h-screen pt-16"> <!-- Added pt-16 to avoid overlap with fixed navbar -->
+    <div id="header-container" class="flex flex-col items-center justify-center px-4 py-5 space-y-6 text-center">
+        <h1 class="text-8xl font-bold">Ryan Nasr</h1>
+        <h2 class="text-xl">
+            Student at Georgia Institute of Technology
+            <br><b>Aspiring Software Engineer</b>
+        </h2>
+        <div class="flex justify-center space-x-4">
+            <a href="https://www.linkedin.com/in/ryan-c-nasr" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/ryannasr11" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-github"></i></a>
+            <a href="mailto:rnasr6@gatech.edu" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fas fa-envelope"></i></a>
+        </div>
+        <div class="mt-6 flex justify-center">
+          <a href="Ryan_Nasr_resume_F24.pdf" target="_blank" class="resume-link text-white bg-black hover:bg-gray-900 font-semibold py-3 px-8 rounded-lg shadow-md transition-colors duration-200 ease-in-out flex items-center justify-center">
+              <i class="fas fa-file-pdf text-2xl"></i>
+              <span class="text-xl text-center w-full">View My Resume</span>
+          </a>
       </div>
-      <!-- Updated Resume Button with Dark Grey Background -->
-<div class="mt-6">
-  <a href="Ryan_Nasr_resume_F24.pdf" target="_blank" class="text-white bg-gray-800 hover:bg-gray-900 font-semibold py-3 px-8 rounded-lg shadow-md transition-colors duration-200 ease-in-out flex items-center space-x-2">
-    <i class="fas fa-file-pdf text-2xl"></i>
-    <span class="text-xl">View My Resume</span>
-  </a>
+    </div>
 </div>
 
-    </div>
-  </div>
+
+
+<style>
+  /* Dark mode styles for the resume section */
+  .dark-mode .resume-link {
+    background-color: #ffffff; /* White background in dark mode */
+    color: #000000; /* Black text in dark mode */
+  }
+
+  .dark-mode .resume-link:hover {
+    background-color: #f0f0f0; /* Slightly lighter background on hover */
+  }
+</style>
+
   <div id="content-container" class="flex flex-col md:flex-row w-full flex-wrap mt-6 mb-20 mx-1 md:mx-0">
     <div id="projects-container" class="w-full md:w-3/3 px-4 py-5 mb-5 md:mb-0">
       <h3 class="text-2xl font-semibold mb-4"><i class="fa-solid fa-code"></i> Projects</h3>
