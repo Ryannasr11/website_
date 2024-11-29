@@ -9,6 +9,7 @@
     body {
       background-color: #f9f9f9;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       height: 100vh;
@@ -19,6 +20,20 @@
       border-radius: 10px;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
+    .back-button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #333;
+      color: #fff;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    .back-button:hover {
+      background-color: #555;
+    }
   </style>
 </head>
 <body>
@@ -26,5 +41,6 @@
     <source src="videos/Ethereum_HBARPresentation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  <a href="/" class="back-button">Back to Home</a>
 </body>
 </html>
