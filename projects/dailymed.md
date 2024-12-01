@@ -12,4 +12,4 @@ A dashboard harnessing over 100,000 drug data points from the NIH, designed to s
 * Manual and Auto Filter Tools
 <br>
 
-[View Website](https://dailymed.acoer.com/)
+<a href="https://dailymed.acoer.com/" style="background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; border-radius:5px;">🚀 View Website</a>
