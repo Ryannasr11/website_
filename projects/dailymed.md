@@ -11,3 +11,5 @@ A dashboard harnessing over 100,000 drug data points from the NIH, designed to s
 * Quick Search Tool
 * Manual and Auto Filter Tools
 <br>
+
+[View Website](https://dailymed.acoer.com/)
