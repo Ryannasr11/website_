@@ -12,4 +12,4 @@ video content.
 * gTTS AI Voiceover
 <br>
 
-<a href="https://github.com/ryannasr11/reddit-to-tiktok" style="background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; border-radius:5px;">🚀 View on GitHub</a>
+<a href="https://github.com/ryannasr11/reddit-to-tiktok" style="background-color:#000000; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; border-radius:5px;">🚀 View on GitHub</a>
