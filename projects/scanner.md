@@ -11,5 +11,5 @@ A Python-based image scanning application to detect and classify injuries using 
 * Optimized Processing with OpenCV
 <br>
 
-<a href="https://github.com/ryannasr11/InjuryScanner" style="background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; border-radius:5px;">🚀 View on GitHub</a>
+<a href="https://github.com/ryannasr11/InjuryScanner" style="background-color:#000000; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; border-radius:5px;">🚀 View on GitHub</a>
 
