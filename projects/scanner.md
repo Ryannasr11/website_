@@ -13,7 +13,7 @@ A Python-based image scanning application to detect and classify injuries using 
 
 <div class="text-center my-4">
   <a href="https://github.com/ryannasr11/InjuryScanner" 
-     class="github-link bg-black text-white py-2 px-4 rounded inline-block">
+     class="github-link bg-black text-white font-semibold py-2 px-4 rounded inline-block">
     🚀 View on GitHub
   </a>
 </div>

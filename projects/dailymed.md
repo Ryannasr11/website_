@@ -14,7 +14,7 @@ A dashboard harnessing over 100,000 drug data points from the NIH, designed to s
 
 <div class="text-center my-4">
   <a href="https://dailymed.acoer.com/" 
-     class="github-link bg-black text-white py-2 px-4 rounded inline-block">
+     class="github-link bg-black text-white font-semibold py-2 px-4 rounded inline-block">
     🚀 View Website
   </a>
 </div>
