@@ -12,4 +12,31 @@ A dashboard harnessing over 100,000 drug data points from the NIH, designed to s
 * Manual and Auto Filter Tools
 <br>
 
-<a href="https://dailymed.acoer.com/" style="background-color:#000000; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; border-radius:5px;">🚀 View Website</a>
+<div class="text-center my-4">
+  <a href="https://dailymed.acoer.com/" 
+     class="github-link bg-black text-white py-2 px-4 rounded inline-block">
+    🚀 View Website
+  </a>
+</div>
+
+<style>
+/* Dark mode styles */
+body.dark-mode .github-link {
+  background-color: white; /* White background in dark mode */
+  color: black; /* Black text in dark mode */
+}
+
+/* Center the button and ensure spacing */
+.github-link {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease; /* Smooth transition for dark mode */
+}
+
+/* Optional hover effect */
+.github-link:hover {
+  opacity: 0.8;
+}
+</style>
+
